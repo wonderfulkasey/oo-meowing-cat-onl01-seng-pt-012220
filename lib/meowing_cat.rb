@@ -2,7 +2,7 @@
 
 def Class 
   
-  attr_accessor
+  attr_accessor: meow
   
   
 end
