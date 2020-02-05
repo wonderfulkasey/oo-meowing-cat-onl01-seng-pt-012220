@@ -1,8 +1,7 @@
 ## code your solution here. 
 
-def Class 
-  
-  attr_accessor: meow
+def class Cat 
+  attr_accessor: name
   
   
 end
