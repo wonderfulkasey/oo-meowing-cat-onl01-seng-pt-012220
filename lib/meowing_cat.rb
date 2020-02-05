@@ -1,6 +1,6 @@
 ## code your solution here. 
 
-def class Cat 
+class Cat 
   attr_accessor: name
   
   
